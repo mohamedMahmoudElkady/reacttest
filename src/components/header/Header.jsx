@@ -9,6 +9,7 @@ function Header() {
         <Nav className="me-auto">
           <Nav.Link href="#features">Features</Nav.Link>
           <Nav.Link href="#pricing">More..</Nav.Link>
+          <Nav.Link href="#pricing">Contacts</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
