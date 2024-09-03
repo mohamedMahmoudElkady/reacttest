@@ -10,6 +10,13 @@ const AboutUs = () => {
         to our customers. Our team works hard to ensure satisfaction and quality 
         in everything we do.
       </p>
+      <h2>About Us</h2>
+      <p>
+        Welcome to our company! We are dedicated to providing the best services 
+        to our customers. Our team works hard to ensure satisfaction and quality 
+        in everything we do.
+      </p>
+      <h2>About Us</h2>
       <p>
         Welcome to our company! We are dedicated to providing the best services 
         to our customers. Our team works hard to ensure satisfaction and quality 
