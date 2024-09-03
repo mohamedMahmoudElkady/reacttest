@@ -10,6 +10,16 @@ const AboutUs = () => {
         to our customers. Our team works hard to ensure satisfaction and quality 
         in everything we do.
       </p>
+      <p>
+        Welcome to our company! We are dedicated to providing the best services 
+        to our customers. Our team works hard to ensure satisfaction and quality 
+        in everything we do.
+      </p>
+      <p>
+        Welcome to our company! We are dedicated to providing the best services 
+        to our customers. Our team works hard to ensure satisfaction and quality 
+        in everything we do.
+      </p>
     </div>
   );
 };
